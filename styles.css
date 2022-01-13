@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,500;1,200;1,300&display=swap');
+
+tr {
+  color: white;
+}
+
+caption {
+  color: white;
+}
+
+html {
+  background-image: url(https://wallpaperaccess.com/full/2825704.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Exo 2';
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+}
+nav ul li a {
+  text-decoration: none;
+}
+
+main div #pib {
+  background-color: rgba(19, 19, 19, 0.7);
+  margin: 15px 15px 15px 15px;
+  padding: 10px 10px 10px 10px;
+}
+
+.spacer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+main div #idh {
+  background-color: rgba(19, 19, 19, 0.7);
+  margin: 15px 15px 15px 15px;
+  padding: 10px 10px 10px 10px;
+}
+
+main div h2 {
+  color: white;
+}
+
+main div p {
+  color: white;
+}
+
+footer {
+  color: white;
+  display: inline-block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
